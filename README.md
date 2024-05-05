@@ -6,7 +6,7 @@
 
 [![Github Stats de Alessandro](https://github-readme-stats.vercel.app/api?username=Alex-pru&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-pru&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-pru&theme=radical&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
