@@ -1,6 +1,6 @@
 ### Hello! Sou Alessandro Silva.
 
-- 💻 Atualmente estudando: TypeScript Frontend(React e Angular) e Backend(Node).
+- 💻 Atualmente estudando: Frontend(TypeScript, JavaScript, React e Angular) e Backend(Node e MySQL).
 - 🙋‍♂️ Sempre disposto a novas oportunidades.
 - 💟 Paciência é a melhor arma para combater problemas complexos.
 
