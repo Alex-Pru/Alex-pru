@@ -1,6 +1,6 @@
 ### Hello! Sou Alessandro Silva.
 
-- 💻 Atualmente estudando: Frontend(TypeScript, JavaScript, NextJs e Threejs) e Backend(Node, Java, Python, MySQL, PostreSQL e MongoDB).
+- 💻 Atualmente estudando: Frontend(TypeScript, JavaScript e NextJs) e Backend(Node, TypeScript, express, MySQL, PostreSQL e MongoDB).
 - 🙋‍♂️ Sempre disposto a encarar novos desafios.
 - 💟 Paciência é a melhor arma para combater problemas complexos.
 
